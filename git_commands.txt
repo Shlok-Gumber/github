@@ -1,0 +1,30 @@
+   1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\ce099c1ed2\resources\app\out\vs\workbench\contrib...
+   2 python -u "c:\Users\Admin\OneDrive\Documents\github\testing.py"
+   3 ls -l
+   4 ls
+   5 ls -a
+   6 rm testing.py
+   7 ls
+   8 git init
+   9 dir -a
+  10 dir
+  11 dir -help
+  12 dir man
+  13 dir
+  14 help dir
+  15 dir
+  16 ls -a
+  17 git status
+  18 git status
+  19 git add .
+  20 git status
+  21 git rm --cached .
+  22 git rm --cached testing.py
+  23 git status
+  24 git add .
+  25 git status
+  26 git commit -m "Added Testing files"
+  27 git status
+  28 rm testing.py
+  29 git status
+  30 git restore testing.py
