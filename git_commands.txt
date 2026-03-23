@@ -36,3 +36,5 @@
    7 dir
    8 cd ..
    9 dir
+
+new line
