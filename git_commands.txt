@@ -28,3 +28,11 @@
   28 rm testing.py
   29 git status
   30 git restore testing.py
+  2 git status
+   3 mkdir github_new
+   4 dir
+   5 cd .\github_new\
+   6 git clone https://github.com/Shlok-Gumber/github-for-devops-workshop.git
+   7 dir
+   8 cd ..
+   9 dir
